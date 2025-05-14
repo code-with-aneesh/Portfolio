@@ -4,22 +4,11 @@ import { ExperienceCard } from "./ui/ExperienceCard";
 
 const experiences = [
   {
-    title: "Full Stack Developer Intern",
-    company: "Cyberxield Solutions",
-    period: "Jan 2024 - Feb 2024",
-    description: `Developed and maintained dynamic web applications using the MERN stack for seamless user experience. 
-    Designed and developed a real-time interactive dashboard that significantly increased user engagement by 40%. 
-    Implemented responsive web design principles, ensuring an optimal mobile-friendly user experience.`,
-    skills: ["React", "Node.js", "MongoDB", "Express.js", "TypeScript"],
-  },
-  {
-    title: "Web Development Lead",
-    company: "College Tech Club",
-    period: "Aug 2024 - Present",
-    description: `Led a dedicated team of 4 developers in designing and creating the college event management platform. 
-    Successfully launched a scalable event platform used by 1000+ students, improving event organization. 
-    Mentored and guided 4 junior developers in modern full-stack web technologies and best coding practices.`,
-    skills: ["Next.js", "PostgreSQL", "Git", "TailwindCSS", "Team Leadership"],
+    title: "Web Development Intern",
+    company: "Wii Labs USA and Mission Unicorn",
+    period: "Apr 2025 - JUn 2024",
+    description: `Spearheaded the development of a modern university social platform encompassing group management, forums, real-time messaging, and blogging functionalities. Implemented user authentication and profile management leveraging Firebase, ensuring secure and seamless user experiences. Contributed to a modular and responsive codebase using React, facilitating future scalability and maintainability. Integrated an e-commerce section for event tickets and products, enhancing platform engagement and potential revenue streams.`,
+    skills: ["React", "Node.js", "Firebase", "Firestore", "TypeScript"],
   },
 ];
 
